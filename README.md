@@ -1,6 +1,6 @@
 # The `git pod`
 
-The idea of the `git pod` is a sort of livestream/podcast/thing where I get together with one or two people each time, and we go through some part of the [Pro Git book](https://git-scm.com/book/en/v2) which is available for free.
+The idea of the `git pod` is a sort of livestream/podcast/thing where I get together with one or two people each time, and we go through some part of the [Pro Git book](https://git-scm.com/book/en/v2) which is available for free. And then just talk through and show off some part of Git, hopefully learning new stuff along the way.
 
 I want to cover the entire book, but may not find it convenient to go through each chapter sequentially, rather I would like to skip back and forth a bit. I want to use this repo to plan and document the execution of the series.
 
